@@ -1,4 +1,4 @@
-Hi 👋 My name is Richard Rang'ondi
+Hi 👋 My name is Marubi N Richard
 ==================================
 
 Front-End Dev with advanced UI/UX skills
