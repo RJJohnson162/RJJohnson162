@@ -35,10 +35,10 @@ I am an upcoming full-stack developer and i have just concluded my front-end dev
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/RJJohnson162"><img src="https://github-readme-stats.vercel.app/api?username=RJJohnson162&show_icons=true&hide=issues,&count_private=true&title_color=ef4444&text_color=ef4444&icon_color=ef4444&bg_color=000000&hide_border=true&show_icons=true" alt="RJJohnson162's GitHub stats" /></a>
+<a href="http://www.github.com/RJJohnson162"><img src="https://github-readme-stats.vercel.app/api?username=RJJohnson162&show_icons=true&hide=issues,&count_private=true&title_color=3382ed&text_color=3382ed&icon_color=3382ed&bg_color=000000&hide_border=true&show_icons=true" alt="RJJohnson162's GitHub stats" /></a>
 
-<a href="http://www.github.com/RJJohnson162"><img src="https://github-readme-streak-stats.herokuapp.com/?user=RJJohnson162&stroke=ef4444&background=000000&ring=ef4444&fire=ef4444&currStreakNum=ef4444&currStreakLabel=ef4444&sideNums=ef4444&sideLabels=ef4444&dates=ef4444&hide_border=true" /></a>
+<a href="http://www.github.com/RJJohnson162"><img src="https://github-readme-streak-stats.herokuapp.com/?user=RJJohnson162&stroke=3382ed&background=000000&ring=3382ed&fire=3382ed&currStreakNum=3382ed&currStreakLabel=3382ed&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=true" /></a>
 
-<a href="http://www.github.com/RJJohnson162"><img src="https://activity-graph.herokuapp.com/graph?username=RJJohnson162&bg_color=000000&color=ef4444&line=ef4444&point=ef4444&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/RJJohnson162"><img src="https://activity-graph.herokuapp.com/graph?username=RJJohnson162&bg_color=000000&color=3382ed&line=3382ed&point=3382ed&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/RJJohnson162" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RJJohnson162&langs_count=10&title_color=ef4444&text_color=ef4444&icon_color=ef4444&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/RJJohnson162" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RJJohnson162&langs_count=10&title_color=3382ed&text_color=3382ed&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
