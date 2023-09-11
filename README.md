@@ -7,7 +7,7 @@ A passionate frontend developer from Kenya
 I am a frontend end developer with technical skills capable of creating state of the art modern user platforms. i specialize in Web APIs, Mobile Apps and E-C0mmerce apps. I am currently persuing Full-stack development proase.
 
 * 🌍  I'm based in Nairobi, Kenya
-* 🖥️  See my portfolio at [https://richard-s-portfolio.netlify.app](http://https://royal-tech-youtube-clone.netlify.app)
+* 🖥️  See my portfolio at [https://richard-s-portfolio.netlify.app](https://richard-s-portfolio.netlify.app/)
 * ✉️  You can contact me at [richardnyamwamu@gmail.com](mailto:richardnyamwamu@gmail.com)
 * 🧠  I'm learning Next JS and Three JS
 * ⚡  I'm secretly Spiderman... dont tell anyone
